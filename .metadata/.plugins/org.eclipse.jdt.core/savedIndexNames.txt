@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\TOSHIBA\Documents\Enyoi\POO - JAVA\.metadata\.plugins\org.eclipse.jdt.core
+2099561185.index
+377732288.index
+1865797976.index

@@ -1,0 +1,16 @@
+package test;
+import base.persona;
+
+public class Testpersona {
+  public static void main(String[] args) {
+
+    persona nuevaPersona = new persona();
+
+    persona Persona1 = new persona();
+    Persona1.setNombre("juan pérez");
+
+    System.out.println("Nombre de la persona: " + nuevaPersona.getNombre());
+    System.out.println("Edad de la persona: " + nuevaPersona.getEdad());
+    System.out.println("______________________");
+  }
+}

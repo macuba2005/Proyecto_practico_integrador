@@ -1,0 +1,10 @@
+package PPI;
+public class Animales {
+	String Nombre;
+	String Genero;
+	String Raza;
+	
+	public Animlaes() {
+		Nombre = 
+	}
+}

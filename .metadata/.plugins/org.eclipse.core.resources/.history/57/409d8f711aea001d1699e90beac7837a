@@ -1,0 +1,23 @@
+package test;
+import PPI.Personas;
+
+public class Testpersona {
+  public static void main(String[] args) {
+
+    Personas nuevaPersona = new Personas();
+
+    System.out.println("Nombre de la persona: " + nuevaPersona.getNombre());
+    System.out.println("Apellido: " + nuevaPersona.getApellido());
+    System.out.println("Edad: " + nuevaPersona.getEdad());
+    System.out.println("Cedula: " + nuevaPersona.getCedula());
+    System.out.println("______________________");
+    
+    Personas Persona1 = new Personas();
+    Persona1.setNombre("Juan perez");
+    Persona1.Edad = 12;
+    System.out.println("Nombre de la persona: " + Persona1.getNombre());
+    System.out.println("Edad de la persona: " + Persona1.getEdad());
+    System.out.println("______________________");
+    
+  }
+}
