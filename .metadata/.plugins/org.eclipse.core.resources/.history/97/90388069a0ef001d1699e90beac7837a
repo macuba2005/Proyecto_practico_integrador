@@ -16,7 +16,7 @@ public class Testpersona {
     
     Persona2.setNombre("Juan");
     Persona2.setApellido("Perez");
-    Persona2.Edad = 17;
+    Persona2.Edad = 12;
     Persona2.Cedula = 1987564321;
     
     
